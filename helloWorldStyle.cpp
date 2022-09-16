@@ -9,6 +9,6 @@
 
 // Outputs two lines of text to the console
 int main() {
-    std::cout << "Hello World! With Style!\n";
+    std::cout << "Hello World! With Proper Style!\n";
     std::cout << "This class is why I wake up in the morning.\n";
 }
